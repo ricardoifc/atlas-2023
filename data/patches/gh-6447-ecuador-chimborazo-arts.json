@@ -1,0 +1,52 @@
+{
+	"id": 2076,
+	"name": "Ecuador Chimborazo Art's",
+	"description": "Chimborazo is currently an inactive volcano located in Ecuador. Green parrot endemic to the Amazon, the guinea pig, pan bus, Toquilla straw hat, Ecuadorian Streamer \"PizzaMandy\" and \"Tia\" supermarket logo. Made by the Discord community.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Ecuador",
+			"https://es.wikipedia.org/wiki/Volc%C3%A1n_Chimborazo"
+		],
+		"subreddit": [
+			"PlaceEcuador",
+			"Ecuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"171-258": [
+			[
+				-1420,
+				619
+			],
+			[
+				-1420,
+				744
+			],
+			[
+				-1331,
+				744
+			],
+			[
+				-1331,
+				743
+			],
+			[
+				-1294,
+				743
+			],
+			[
+				-1294,
+				619
+			]
+		]
+	},
+	"center": {
+		"171-258": [
+			-1357,
+			682
+		]
+	}
+}
