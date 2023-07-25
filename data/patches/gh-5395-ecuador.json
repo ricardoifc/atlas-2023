@@ -1,0 +1,48 @@
+{
+	"id": 932,
+	"name": "Ecuador",
+	"description": "Ecuador, mitad del mundo, teleferico (meme), Pilsener, Encebollado, bandera gracias a Chile y a Capitan Gato y Geomedry Dash por seder el espacio, tambien se cordinaron en Discord:  r/PlaceEcuador",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Ecuador",
+			"https://en.wikipedia.org/wiki/Flag_of_Ecuador"
+		],
+		"subreddit": [
+			"PlaceEcuador",
+			"Ecuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"118-251": [
+			[
+				-535,
+				-912
+			],
+			[
+				-535,
+				-873
+			],
+			[
+				-387,
+				-873
+			],
+			[
+				-387,
+				-912
+			],
+			[
+				-473,
+				-912
+			]
+		]
+	},
+	"center": {
+		"118-251": [
+			-461,
+			-892
+		]
+	}
+}
