@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "ECUAWOL.XYZ",
+	"description": "It is a community that is in discord",
+	"links": {
+		"subreddit": [
+			"PlaceEcuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"227-254": [
+			[
+				-1385,
+				752
+			],
+			[
+				-1385,
+				744
+			],
+			[
+				-1331,
+				744
+			],
+			[
+				-1331,
+				752
+			]
+		]
+	},
+	"center": {
+		"227-254": [
+			-1358,
+			748
+		]
+	}
+}
