@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "TU ÑAÑA",
+	"description": "\"Tu ñaña\" is an expression used in Ecuador, as if to joke",
+	"links": {
+		"subreddit": [
+			"PlaceEcuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"240-254": [
+			[
+				-1488,
+				745
+			],
+			[
+				-1488,
+				745
+			],
+			[
+				-1489,
+				746
+			],
+			[
+				-1489,
+				752
+			],
+			[
+				-1385,
+				752
+			],
+			[
+				-1385,
+				744
+			]
+		]
+	},
+	"center": {
+		"240-254": [
+			-1389,
+			748
+		]
+	}
+}
