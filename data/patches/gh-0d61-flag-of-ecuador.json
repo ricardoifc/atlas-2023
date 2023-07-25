@@ -1,0 +1,45 @@
+{
+	"id": 1412,
+	"name": "Flag of Ecuador",
+	"description": "Flag of Ecuador, country of South America, Diablo Huma, is a being from the tribal legends of Ecuador.\nShirt of the Ecuadorian team with the number 13 of Enner Valencia \"EnnerGoat\" and the face of Rubios as he is a neighbor of the pixelart. Ecuadorian mushroom created by the Ecuadorian Discord community.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Ecuador",
+			"https://en.wikipedia.org/wiki/Flag_of_Ecuador",
+			"https://es.wikipedia.org/wiki/Diablo_Huma"
+		],
+		"subreddit": [
+			"PlaceEcuador",
+			"Ecuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"156-258": [
+			[
+				316,
+				672
+			],
+			[
+				316,
+				750
+			],
+			[
+				381,
+				750
+			],
+			[
+				381,
+				672
+			]
+		]
+	},
+	"center": {
+		"156-258": [
+			349,
+			711
+		]
+	}
+}
