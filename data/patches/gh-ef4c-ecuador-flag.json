@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Ecuador flag",
+	"description": "Flag of Ecuador, country of South America.",
+	"links": {
+		"website": [
+			"https://es.wikipedia.org/wiki/Bandera_de_Ecuador",
+			"https://es.wikipedia.org/wiki/Ecuador"
+		],
+		"subreddit": [
+			"PlaceEcuador"
+		],
+		"discord": [
+			"8D4KkFWx"
+		]
+	},
+	"path": {
+		"71-256": [
+			[
+				251,
+				-142
+			],
+			[
+				251,
+				-134
+			],
+			[
+				279,
+				-134
+			],
+			[
+				279,
+				-142
+			]
+		]
+	},
+	"center": {
+		"71-256": [
+			265,
+			-138
+		]
+	}
+}
