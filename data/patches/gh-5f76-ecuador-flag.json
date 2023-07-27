@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Ecuador Flag",
+	"description": "Bandera de ecuador junto a Dobla2",
+	"links": {
+		"subreddit": [
+			"PlaceEcuador"
+		],
+		"discord": [
+			"YnNWVbJp"
+		]
+	},
+	"path": {
+		"77-79": [
+			[
+				1000,
+				-482
+			],
+			[
+				933,
+				-481
+			],
+			[
+				932,
+				-500
+			],
+			[
+				1000,
+				-501
+			]
+		]
+	},
+	"center": {
+		"77-79": [
+			945,
+			-491
+		]
+	}
+}
